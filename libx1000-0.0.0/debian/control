@@ -1,12 +1,12 @@
 Source: libx1000
-Section: unknown
+Section: libs
 Priority: optional
-Maintainer: ray <ray.kinsella@intel.com>
+Maintainer: Ray Kinsella <ray.kinsella@intel.com>
 Build-Depends: debhelper (>= 9), autotools-dev
 Standards-Version: 3.9.5
-Homepage: <insert the upstream URL, if relevant>
-#Vcs-Git: git://anonscm.debian.org/collab-maint/libx1000.git
-#Vcs-Browser: http://anonscm.debian.org/?p=collab-maint/libx1000.git;a=summary
+Homepage: http://mdr78.github.io/x1000/2016/10/21/fixing-lock-prefix-on-x1000.html
+Vcs-Git: https://github.com/mdr78/libx1000.git
+Vcs-Browser: https://github.com/mdr78/libx1000
 
 Package: libx1000
 Architecture: any

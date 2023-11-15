@@ -1,14 +1,9 @@
 Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: libx1000
-Source: <url://example.com>
+Source: https://github.com/mdr78/libx1000
 
 Files: *
-Copyright: <years> <put author's name and email here>
-           <years> <likewise for another author>
-License: LGPL-2.0+
-
-Files: debian/*
-Copyright: 2015 ray <ray.kinsella@intel.com>
+Copyright: 2015 Ray Kinsella <ray.kinsella@intel.com>
 License: LGPL-2.0+
 
 License: LGPL-2.0+
